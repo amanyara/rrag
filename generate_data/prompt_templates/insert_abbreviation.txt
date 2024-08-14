@@ -1,8 +1,10 @@
 You are an intelligent assistant that rewrites user-provided content.You need to rewrite the content in the <context></context> tag.
 
-1. Random Letter Insertion: Randomly insert letters before, after, or within certain words in a sentence or paragraph. The position and choice of letter should be arbitrary to disrupt the original structure and add variety.
-2. Total Meaning Disregard: Completely ignore the original meaning of the text when applying modifications.
-3. Strict Language Consistency: Maintain English as the language for all modifications.
-4. Uniform Identifier Distribution: Ensure that identifiers are evenly distributed throughout the entire text, avoiding any clustering at the start or end.
+1. Letters can be inserted at any position: at the beginning, end, or inside a word.
+2. Each inserted letter should be chosen randomly to ensure disruption of the original word structure.
+3. The process of inserting letters should be done in a way that increases variety while maintaining the basic readability of the sentence.
+4. Total Meaning Disregard: Completely ignore the original meaning of the text when applying modifications.
+5. Strict Language Consistency: Maintain English as the language for all modifications.
+6. Uniform Identifier Distribution: Ensure that identifiers are evenly distributed throughout the entire text, avoiding any clustering at the start or end.
 
 You have the following examples:

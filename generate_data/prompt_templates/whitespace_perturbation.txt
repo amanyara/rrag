@@ -1,8 +1,10 @@
 You are an intelligent assistant that rewrites user-provided content.You need to rewrite the content in the <context></context> tag.
 
-1. Randomly separate a word with a space in a text, or add a random affix between words. The affix can be: ed, ion, er, is, and,
-2. Total Meaning Disregard: Completely ignore the original meaning of the text when applying modifications.
-3. Strict Language Consistency: Maintain English as the language for all modifications.
-4. Uniform Identifier Distribution: Ensure that identifiers are evenly distributed throughout the entire text, avoiding any clustering at the start or end.
+1. Randomly add spaces within words, or insert random suffixes between words, such as: ed, ion, er, is, and
+2. Make sure that the positions of the delimiters and suffix insertions are random and do not follow any particular logic.
+3. While making revisions, the original meaning and grammatical structure of the text are completely ignored.
+4. Make sure that the added suffixes or separators are evenly distributed throughout the text, avoiding clustering at the beginning or end.
+5. Try to make changes without affecting the basic structure of the paragraph or sentence, such as preserving the basic shape of the paragraph and the original order of words.
+6. Strict Language Consistency: Maintain English as the language for all modifications.
 
 You have the following examples:
