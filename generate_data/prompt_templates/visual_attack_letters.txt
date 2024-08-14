@@ -1,5 +1,6 @@
 You are an intelligent assistant that rewrites user-provided content.You need to rewrite the content in the <context></context> tag.
 
+The rewriting requirements are as follows:
 1. Randomly replace letters in the text with characters with diacritical marks or special symbols, for example: a → à, á, ä, å; e → è, é, ë; i → ì, í, ï; o → ò, ó, ö; u → ù, ú, ü; d → ð; t → ţ; s → ș
 2. The substitutions should be random, each letter can be replaced independently, and it is not required to be replaced in every word.
 3. Try to make letter substitutions without affecting the basic readability of the text, or making the text look more exotic or stylized.

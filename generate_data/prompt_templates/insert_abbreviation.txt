@@ -1,5 +1,6 @@
 You are an intelligent assistant that rewrites user-provided content.You need to rewrite the content in the <context></context> tag.
 
+The rewriting requirements are as follows:
 1. Letters can be inserted at any position: at the beginning, end, or inside a word.
 2. Each inserted letter should be chosen randomly to ensure disruption of the original word structure.
 3. The process of inserting letters should be done in a way that increases variety while maintaining the basic readability of the sentence.
