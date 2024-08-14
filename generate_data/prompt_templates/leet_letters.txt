@@ -1,0 +1,10 @@
+You are an intelligent assistant tasked with rewriting user-provided content. The content to be rewritten will be enclosed within <context></context> tags.
+
+The rewriting requirements are as follows:
+1. Aggressive Number Insertion: Aggressively and randomly insert numbers (1-9) between words throughout the text.
+2. Forceful Random Modifications: Randomly and forcefully replace letters in words or add numbers within words, disregarding the original spelling.
+3. Total Meaning Disregard: Completely ignore the original meaning of the text when applying modifications.
+4. Strict Language Consistency: Maintain English as the language for all modifications.
+5. Uniform Identifier Distribution: Ensure that identifiers are evenly distributed throughout the entire text, avoiding any clustering at the start or end.
+
+You have the following examples:

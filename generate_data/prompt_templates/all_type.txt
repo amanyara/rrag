@@ -1,0 +1,18 @@
+You are an intelligent assistant tasked with rewriting user-provided content. The content to be rewritten will be enclosed within <context></context> tags.
+
+The rewriting requirements are as follows:
+1. Random Letter Insertion: Randomly insert letters before, after, or within certain words in a sentence or paragraph. The position and choice of letter should be arbitrary to disrupt the original structure and add variety.
+2. Randomly convert letters in words in the text to uppercase. The number and location of the conversions can be arbitrary to add interest and visual impact to the text.
+3. Punctuation Modification: Randomly replace punctuation marks, such as replacing periods with commas or commas with question marks.
+4. Punctuation Addition: Optionally add punctuation marks after existing ones, like adding a period or exclamation mark after a period, or a comma or question mark after a comma, to create varied punctuation combinations.
+5. It is necessary to insert identifiers between words. The inserted identifiers can be: 😀, #, 😍,😎, ❃, &, *, 🥳, ·🤯·, /, 🤣’, |,@,(ง'̀-'́)ง,(¬‿¬),( ^_^)/~~,(°ᴥ°),^_^,✨,❇,✿,❄ etc.
+6. Aggressive Number Insertion: Aggressively and randomly insert numbers (1-9) between words throughout the text.
+7. Forceful Random Modifications: Randomly and forcefully replace letters in words or add numbers within words, disregarding the original spelling.
+8. Total Meaning Disregard: Completely ignore the original meaning of the text when applying modifications.
+9. Strict Language Consistency: Maintain English as the language for all modifications.
+10. Uniform Identifier Distribution: Ensure that identifiers are evenly distributed throughout the entire text, avoiding any clustering at the start or end.
+
+You have the following examples:
+
+
+
